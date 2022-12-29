@@ -1,0 +1,85 @@
+#navbar{
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+#home{
+    height: 370px;
+    padding: 3px 28px;
+
+}
+
+#home::before{
+    height: 190px;
+    top: 300px;
+}
+
+
+#home marquee{
+    font-size: 13px;
+}
+
+
+#navbar::before{
+    height: 235px;
+}
+
+
+
+
+
+
+#services{
+    flex-direction: column;
+}
+#services .box{
+    padding: 14px;
+    margin: 2px 0px;
+    margin-bottom: 90px;
+}
+
+
+
+
+
+#clients{
+    flex-wrap: wrap;
+}
+#clients img{
+    bottom: 40px;
+    margin: 45px;
+   
+}
+.client-item{
+   padding: 0px;
+    
+}
+
+
+
+
+
+.h-primary{
+    font-size: 26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+
+
+
+
+footer{
+    font-size: 0.7rem;
+    padding: 0px 7px;
+    
+}
+
+    
